@@ -1,0 +1,16 @@
+fastapi
+uvicorn[standard]
+python-multipart
+langgraph
+langchain
+langchain-openai
+openai
+faiss-cpu
+sentence-transformers
+pymupdf
+pdfplumber
+duckdb
+python-dotenv
+pydantic
+numpy
+datasets
