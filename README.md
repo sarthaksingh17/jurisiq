@@ -1,4 +1,8 @@
-# JURIS-IQ — Multi-Agent Legal Contract Intelligence
+# JURIS-IQ — Multi-Agent Legal Contract Intelligence  
+<p align="center">
+  <em>your AI Harvey Specter for contracts ⚖️</em>
+</p>
+
 A production-grade AI system that analyzes legal contracts using 5 specialized agents, adversarial debate, and legal-domain NLP — built with LangGraph, FAISS, InLegalBERT, and LLaMA 3.
 
 
